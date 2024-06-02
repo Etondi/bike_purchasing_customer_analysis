@@ -1,8 +1,21 @@
 # Bike Purchasing Customer Analysis
 
-## Overview:
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory_Data_Analysis](#exploratory-data-analysis)
+- [Data_Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+
+
+## Project Overview:
 The goal of this project is to analyze the demographics and  behavior of customers who purchase bikes and to develop data-driven decision making for business growth and customer satisfaction. I explored key metrics such as average income, age distribution, and commute distance.
 
+## Data Sources:
 The full Google Sheets project can be viewed [here](https://docs.google.com/spreadsheets/d/1lnW-6IZPMa3qBn5QJgeDVPCk4sQG6SL7U_bOiHMNmsk/edit?usp=sharing)
 
 ## Objectives:
