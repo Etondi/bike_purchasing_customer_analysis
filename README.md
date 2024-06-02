@@ -1,3 +1,5 @@
+# Bike Purchasing Customer Analysis
+
 ## Overview:
 The goal of this project is to analyze the demographics and  behavior of customers who purchase bikes and to develop data-driven decision making for business growth and customer satisfaction. I explored key metrics such as average income, age distribution, and commute distance.
 
