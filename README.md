@@ -22,10 +22,13 @@ The full Google Sheets project can be viewed [here](https://docs.google.com/spre
 - **Google Sheets**: For data cleaning, transformation and visualization.
 
 ## Objectives:
-Analyze the average income of bike purchasers to understand the purchasing power of our customer base.
-Explore the age distribution of bike purchasers to identify target demographics for tailored marketing efforts.
-Investigate customer commute distance to assess its correlation with bike purchasing behavior 
-Utilize data-driven insights to make informed decisions aimed at fostering business growth and enhancing customer satisfaction.
+- Analyze the average income of bike purchasers to understand the purchasing power of our customer base.
+
+- Explore the age distribution of bike purchasers to identify target demographics for tailored marketing efforts.
+
+- Investigate customer commute distance to assess its correlation with bike purchasing behavior 
+
+- Utilize data-driven insights to make informed decisions aimed at fostering business growth and enhancing customer satisfaction.
 
 ## Data Cleaning
 - I rephrased the input "10+ Miles" to "More Than 10 Miles" to ensure proper ascending order in the "Commute" category. This adjustment facilitated an accurate visualization of the commute distribution.
