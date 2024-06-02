@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [Project_Overview](#project-overview)
+- [Data_Sources](#data-sources)
 - [Tools](#tools)
 - [Objectives](#objectives)
 - [Data_Cleaning](data-cleaning)
-- [Data Analysis](#data-analysis)
-- [Findings](#findingsFormulas & Functions)
+- [Data_Analysis](#data-analysis)
+- [Insights](#insights)
 - [Recommendations](#recommendations)
 
 
@@ -37,9 +37,6 @@ Utilize data-driven insights to make informed decisions aimed at fostering busin
 
 ## Data Analysis:
 To get a clearer picture of the age demographic, I categorized age into 3 groups and explored how they correlated with the bike purchases. I also calculated average income segmented by gender and bike purchases based on work commute distance.
-
-
-
 
 ## Visualization:
 I was able to visually illustrate the differences in average income across genders through pivot tables and charts. Using pivot tables and line charts, I discovered how commute distance and age impact bike purchasing decisions.
