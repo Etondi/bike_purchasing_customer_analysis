@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning](#data-cleaning)
+- [Objectives](#objectives)
 - [Data Analysis](#data-analysis)
 - [Formulas_&_Functions](#formulas-&-functions)
 - [Findings](#findingsFormulas & Functions)
