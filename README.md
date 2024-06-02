@@ -24,7 +24,7 @@ The full Google Sheets project can be viewed [here](https://docs.google.com/spre
 - **Google Sheets**: For data cleaning, transformation and visualization.
 
 ## Objectives:
-- Analyze the average income of bike purchasers to understand the purchasing power of our customer base.
+- Analyze the average income of bike purchasers to understand the purchasing power of the customer base.
 
 - Explore the age distribution of bike purchasers to identify target demographics for tailored marketing efforts.
 
