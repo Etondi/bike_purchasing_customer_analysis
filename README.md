@@ -6,8 +6,8 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
-- [Exploratory_Data_Analysis](#exploratory-data-analysis)
-- [Formulas_&_Functions](#formulas&functions)
+- [Data Analysis](#data-analysis)
+- [Formulas_&_Functions](#formulas-&-functions)
 - [Findings](#findingsFormulas & Functions)
 - [Recommendations](#recommendations)
 
@@ -27,7 +27,7 @@ Explore the age distribution of bike purchasers to identify target demographics 
 Investigate customer commute distance to assess its correlation with bike purchasing behavior 
 Utilize data-driven insights to make informed decisions aimed at fostering business growth and enhancing customer satisfaction.
 
-## Analysis:
+## Data Analysis:
 To get a clearer picture of the age demographic, I categorized age into 3 groups and explored how they correlated with the bike purchases. I also calculated average income segmented by gender and bike purchases based on work commute distance.
 
 ## Formulas & Functions:
