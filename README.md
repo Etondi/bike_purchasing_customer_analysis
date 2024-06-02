@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory_Data_Analysis](#exploratory-data-analysis)
-- [Formulas & Functions](#formulas-&-functions)
+- [Formulas_&_Functions](#formulas&functions)
 - [Findings](#findingsFormulas & Functions)
 - [Recommendations](#recommendations)
 
