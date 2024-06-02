@@ -6,8 +6,8 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Objectives](#objectives)
+- [Data_Cleaning](data-cleaning)
 - [Data Analysis](#data-analysis)
-- [Formulas_&_Functions](#formulas-&-functions)
 - [Findings](#findingsFormulas & Functions)
 - [Recommendations](#recommendations)
 
@@ -28,7 +28,6 @@ Investigate customer commute distance to assess its correlation with bike purcha
 Utilize data-driven insights to make informed decisions aimed at fostering business growth and enhancing customer satisfaction.
 
 ## Data Cleaning
-
 - I rephrased the input "10+ Miles" to "More Than 10 Miles" to ensure proper ascending order in the "Commute" category. This adjustment facilitated an accurate visualization of the commute distribution.
 
 - In organizing age groups, I used the IF function. I categorized the ages 0 - 30 as "Adolescent", ages 31 - 54 as "Middle Aged and 55 and above as "Senior". By arranging the data into groups, I obtained a clearer visualization of the age distribution among customers, as opposed to ages being scattered when plotted.
