@@ -35,10 +35,10 @@ The full Google Sheets project can be viewed [here](https://docs.google.com/spre
 ## Data Cleaning
 - I rephrased the input "10+ Miles" to "More Than 10 Miles" to ensure proper ascending order in the "Commute" category. This adjustment facilitated an accurate visualization of the commute distribution.
 
-- In organizing age groups, I used the IF function. I categorized the ages 0 - 30 as "Adolescent", ages 31 - 54 as "Middle Aged and 55 and above as "Senior". By arranging the data into groups, I obtained a clearer visualization of the age distribution among customers, as opposed to ages being scattered when plotted.
+- In organizing age groups, I used the IF function. I categorized the ages 0 - 30 as "Adolescent", ages 31 - 54 as "Middle Aged" and 55 and above as "Senior". By arranging the data into groups, I obtained a clearer visualization of the age distribution among customers, as opposed to ages being scattered when plotted.
 
 #### IF formula used:
-=IF(L2>54, "Senior",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescent","Invalid")))
+=IF(L2>54, "Senior",IF(L2>=31,"Middle Aged",IF(L2<31,"Adolescent","Invalid")))
 
 ## Data Analysis:
 To get a clearer picture of the age demographic, I categorized age into 3 groups and explored how they correlated with the bike purchases. I also calculated average income segmented by gender and bike purchases based on work commute distance.
